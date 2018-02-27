@@ -1,3 +1,5 @@
+I have forked this repository to encourage members of Peer Hackers to read this book as a project, and pull any notes they might have.
+
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=tuhdo1710%40gmail%2ecom&lc=VN&item_number=tuhdo&currency_code=USD&bn=PP%2dDonationsBF%3aDonate%2dPayPal%2dgreen%2esvg%3aNonHosted)
 
